@@ -1,0 +1,6 @@
+TinyC*.interp
+TinyC*.tokens
+TinyC*.java
+*.class
+.antlr
+./idea
